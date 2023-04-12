@@ -1,1 +1,1 @@
-# Python-script-for-browsing-Telegram-
+#  Python script for browsing Telegram channels
